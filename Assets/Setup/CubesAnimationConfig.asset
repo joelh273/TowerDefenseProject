@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bf04365e38169458ebb52f6ae2255c, type: 3}
+  m_Name: CubesAnimationConfig
+  m_EditorClassIdentifier: 
+  move: {fileID: 7400000, guid: 3a45cda0c9bb5c84183692eb00bfc504, type: 2}
+  intro: {fileID: 7400000, guid: 51dc74f19e43a944f8ca3ea96f62c329, type: 2}
+  outro: {fileID: 7400000, guid: e7396806ae2c0024b8f4b21952cd654b, type: 2}
+  dying: {fileID: 7400000, guid: 8f3f54bb1c0e78d4bbc7af7602f426d9, type: 2}
+  moveAnimationSpeed: 1

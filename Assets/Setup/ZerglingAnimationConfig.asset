@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bf04365e38169458ebb52f6ae2255c, type: 3}
+  m_Name: ZerglingAnimationConfig
+  m_EditorClassIdentifier: 
+  move: {fileID: 7400000, guid: 1e35373135394fa45852a3e55ba00889, type: 3}
+  intro: {fileID: 7400000, guid: ea28880f3c432b74ba40f56c53f03139, type: 3}
+  outro: {fileID: 7400000, guid: 79010052a8a8d57429c67f68dab3478f, type: 3}
+  dying: {fileID: 7400000, guid: 207dc8692867d714ab049ba3b95ff920, type: 3}
+  moveAnimationSpeed: 1
