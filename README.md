@@ -4,7 +4,7 @@
 Youtube video demonstration:
 
 
-Third party assets/code:
+Third party assets/code:  
   https://assetstore.unity.com/packages/2d/environments/2d-space-backgrounds-39148  
   https://assetstore.unity.com/packages/3d/3d-game-kit-character-pack-135217  
   https://assetstore.unity.com/packages/vfx/particles/teleporter-25645  
